@@ -1,6 +1,6 @@
 # Modeling Topics and Sociolinguistic Variation in Code-Switched Discourse: Insights from Spanish-English and Spanish-Guaraní  
-Nemika Tyagi*, Nelvin Licona-Guevara, Olga Kellert  
-Arizona State University - ntyagi8@asu.edu  
+<!-- Nemika Tyagi*, Nelvin Licona-Guevara, Olga Kellert  
+Arizona State University - ntyagi8@asu.edu  -->
 
 ---
 
@@ -8,9 +8,9 @@ Arizona State University - ntyagi8@asu.edu
 
 This repository contains the bilingual corpora and annotated resources described in the paper:
 
-> **Tyagi, N., Licona-Guevara, N., & Kellert, O. (2026).**
+<!-- > **Tyagi, N., Licona-Guevara, N., & Kellert, O. (2026).**
 > *Modeling Topics and Sociolinguistic Variation in Code-Switched Discourse: Insights from Spanish-English and Spanish-Guaraní.*
-
+-->
 The datasets were enriched using an LLM-assisted annotation pipeline for topic and sociolinguistic labeling.  
 Each dataset includes topic, discourse/pragmatic, or formality-level annotations that support large-scale, interpretable analysis of bilingual communication.
 
