@@ -1,4 +1,4 @@
-# Modeling Topics and Sociolinguistic Variation in Code-Switched Discourse: Insights from Spanish-English and Spanish-Guaraní  
+# Modeling Cultural and Subcultural Variation in Code-Switched Discourse with Topic Annotation
 <!-- Nemika Tyagi*, Nelvin Licona-Guevara, Olga Kellert  
 Arizona State University - ntyagi8@asu.edu  -->
 
